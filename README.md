@@ -18,8 +18,6 @@ Focused on regression, logistic models, and predictive analytics. Passionate abo
 | Project | Description | Tools |
 |----------|--------------|-------|
 | [🏠 House Price Prediction](https://github.com/fahad-ai/house-price-regression) | Regression model using Ridge, Lasso, and LightGBM with feature engineering | Python, Sklearn |
-| [📈 Customer Churn Prediction](https://github.com/fahad-ai/churn-prediction) | Logistic regression & SHAP analysis to interpret key churn drivers | Pandas, SHAP |
-| [🧮 Model Blending Experiment](https://github.com/fahad-ai/model-blending) | Ensemble blending for improved Kaggle RMSE | LightGBM, ElasticNet |
 
 ---
 
