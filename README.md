@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Fahad Khatri
 
-<!--
-**Fahad-Rehman/Fahad-Rehman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Machine Learning & AI **  
+Focused on regression, logistic models, and predictive analytics. Passionate about turning data into real-world insights.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Stack
+- **Languages:** Python, SQL  
+- **ML Libraries:** Scikit-learn, LightGBM, XGBoost, CatBoost, Pandas, NumPy
+- **Visualization:** Matplotlib, Seaborn, Plotly  
+- **Tools:** Git, MLflow, Jupyter, VS Code, Docker, Flask  
+- **Currently Learning:** Deep Learning (PyTorch) & MLOps  
+
+---
+
+## 📊 Featured Projects
+| Project | Description | Tools |
+|----------|--------------|-------|
+| [🏠 House Price Prediction](https://github.com/fahad-ai/house-price-regression) | Regression model using Ridge, Lasso, and LightGBM with feature engineering | Python, Sklearn |
+| [📈 Customer Churn Prediction](https://github.com/fahad-ai/churn-prediction) | Logistic regression & SHAP analysis to interpret key churn drivers | Pandas, SHAP |
+| [🧮 Model Blending Experiment](https://github.com/fahad-ai/model-blending) | Ensemble blending for improved Kaggle RMSE | LightGBM, ElasticNet |
+
+---
+
+## 📫 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/fahad-khatri-095950191/)  
+- 📧 Email: fahadkhatri295@gmail.com  
+- 🌍 [Kaggle Profile]([https://kaggle.com/yourusername](https://www.kaggle.com/khatrifahad))
+
+---
+
+⭐ *“Every model tells a story — I just make sure it learns the right one.”*
