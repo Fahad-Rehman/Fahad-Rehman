@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Fahad Khatri
 
-🎯 **Machine Learning & AI **  
+🎯 **Machine Learning & AI Enthusiast**  
 Focused on regression, logistic models, and predictive analytics. Passionate about turning data into real-world insights.
 
 ---
@@ -18,12 +18,12 @@ Focused on regression, logistic models, and predictive analytics. Passionate abo
 | Project | Description | Tools |
 |----------|--------------|-------|
 | [🏠 House Price Prediction](https://github.com/Fahad-Rehman/House-Price-Prediction) | Regression model using Ridge, Lasso, and LightGBM with feature engineering | Python, Sklearn |
-
+| [📧 Spam BERT Classifier](https://github.com/Fahad-Rehman/Spam-BERT-Classifier) | Email spam classifier using DistilBERT; classifies emails as Ham or Spam | Python, PyTorch, Transformers |
 ---
 
 ## 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/fahad-khatri-095950191/)  
-- 📧 Email: fahadkhatri295@gmail.com  
+- 📧 Email: fahadkhatri295@gmail.com
 - 🌍 [Kaggle Profile]([https://kaggle.com/yourusername](https://www.kaggle.com/khatrifahad))
 
 ---
