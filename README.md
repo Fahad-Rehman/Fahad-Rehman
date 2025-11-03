@@ -17,7 +17,7 @@ Focused on regression, logistic models, and predictive analytics. Passionate abo
 ## 📊 Featured Projects
 | Project | Description | Tools |
 |----------|--------------|-------|
-| [🏠 House Price Prediction](https://github.com/fahad-ai/house-price-regression) | Regression model using Ridge, Lasso, and LightGBM with feature engineering | Python, Sklearn |
+| [🏠 House Price Prediction](https://github.com/Fahad-Rehman/House-Price-Prediction) | Regression model using Ridge, Lasso, and LightGBM with feature engineering | Python, Sklearn |
 
 ---
 
