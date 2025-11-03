@@ -24,7 +24,7 @@ Focused on regression, logistic models, and predictive analytics. Passionate abo
 ## 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/fahad-khatri-095950191/)  
 - 📧 Email: fahadkhatri295@gmail.com
-- 🌍 [Kaggle Profile]([https://kaggle.com/yourusername](https://www.kaggle.com/khatrifahad))
+- 🌍 [Kaggle Profile](https://www.kaggle.com/khatrifahad)
 
 ---
 
